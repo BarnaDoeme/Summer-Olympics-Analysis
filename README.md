@@ -1,2 +1,2 @@
-# Summer-Olympics-Analysis
-Summer Olympics Power BI project to understand the trends from 1896 till the 2020 Tokyo Olympics.
+# Summer Olympics Analysis – Power BI
+Analyze historical Summer Olympics data from Athens 1896 to Tokyo 2020 using Power BI.
